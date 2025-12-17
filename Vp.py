@@ -6,3 +6,7 @@ def check_age(age):
         print("Heis not allowed!")
 
 print(check_age(12))
+
+def greet(name):
+    print("Hello, " + name + ". How are you today?")    
+    
